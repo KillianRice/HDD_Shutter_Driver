@@ -9,6 +9,7 @@ HDD shutter driver circuit based on Rob Scholten's 2007 RSI paper (see below). M
 
 ## Ordering ##
 -v1.1 OSHpark: <a href="https://oshpark.com/shared_projects/gJmzOIRQ">Shutter Driver Rev. 1.1</a>
+
 -v1.0 OSHpark: <a href="https://oshpark.com/shared_projects/CgeGIYMU">Shutter Driver Rev. 1.0</a>
 
 ## Original paper ##
