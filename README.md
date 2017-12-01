@@ -8,7 +8,7 @@ HDD shutter driver circuit based on Rob Scholten's 2007 RSI paper (see below). M
 - H1 and H2 allow the selection of the output polarity (OUT_1x when using the IXDF604PI, OUT_2x when using LMD18200). 
 
 ## Ordering ##
--v1.1 OSHpark: https://oshpark.com/shared_projects/gJmzOIRQ
+-v1.1 OSHpark: <a href = "https://oshpark.com/shared_projects/gJmzOIRQ">Shutter Driver Rev. 1.1</a>
 
 ## Original paper ##
 Enhanced laser shutter using a hard disk drive rotary voice-coil actuator
@@ -18,3 +18,6 @@ R. E. Scholten
 Review of Scientific Instruments 78, 026101 (2007)
 
 https://doi.org/10.1063/1.2437199
+
+## Also see ##
+- <a href="https://github.com/JQIamo/hard-drive-shutter">JQI's hard-drive-shutter</a>
