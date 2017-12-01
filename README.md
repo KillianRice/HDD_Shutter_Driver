@@ -4,9 +4,7 @@ HDD shutter driver circuit based on Rob Scholten's 2007 RSI paper (see below). M
 
 ## Notes ##
 - Outputs are to standard BNC connectors so care should be taken to avoid shorting to ground. 
-
 - H3 (PWR_SEL) allows using a single voltage supply to power the IC and provide current for the shutter. 
-
 - H1 and H2 allow the selection of the output polarity (OUT_1x when using the IXDF604PI, OUT_2x when using LMD18200). 
 
 ## Original paper ##
