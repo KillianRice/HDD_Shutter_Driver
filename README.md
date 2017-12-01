@@ -17,7 +17,7 @@ Enhanced laser shutter using a hard disk drive rotary voice-coil actuator
 
 R. E. Scholten
 
-Review of Scientific Instruments 78, 026101 (2007)
+Review of Scientific Instruments <b>78</b>, 026101 (2007)
 
 https://doi.org/10.1063/1.2437199
 
