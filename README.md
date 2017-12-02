@@ -17,8 +17,8 @@ The main circuit for driving HDD shutters.
 
 ### Power Distribution ###
 Circuit used to breakout a power supply for multiple shutter driver boards. 
-
-- **Add link to power distribution PCB.
+- v1.1: **Add notes**
+- v1.0: <a href="https://oshpark.com/shared_projects/fE8gVI9B">Positive Power Distribution Rev. 1.0</a>
 
 ## Original paper ## 
 Enhanced laser shutter using a hard disk drive rotary voice-coil actuator
