@@ -11,14 +11,14 @@ HDD shutter driver circuit based on Rob Scholten's 2007 RSI paper (see below). M
 ### Shutter Driver ###
 The main circuit for driving HDD shutters. 
 
-- v1.1: <a href="https://oshpark.com/shared_projects/gJmzOIRQ">Shutter Driver Rev. 1.1 (OSHpark)</a>
+- v1.1: <a href="https://oshpark.com/shared_projects/gJmzOIRQ">Shutter Driver Rev. 1.1 (OSH Park)</a>
 
-- v1.0: <a href="https://oshpark.com/shared_projects/CgeGIYMU">Shutter Driver Rev. 1.0 (OSHpark)</a>
+- v1.0: <a href="https://oshpark.com/shared_projects/CgeGIYMU">Shutter Driver Rev. 1.0 (OSH Park)</a>
 
 ### Power Distribution ###
 Circuit used to breakout a power supply for multiple shutter driver boards. 
 - v1.1: **Add notes**
-- v1.0: <a href="https://oshpark.com/shared_projects/fE8gVI9B">Positive Power Distribution Rev. 1.0</a>
+- v1.0: <a href="https://oshpark.com/shared_projects/fE8gVI9B">Positive Power Distribution Rev. 1.0 (OSH Park)</a>
 
 ## Original paper ## 
 Enhanced laser shutter using a hard disk drive rotary voice-coil actuator
