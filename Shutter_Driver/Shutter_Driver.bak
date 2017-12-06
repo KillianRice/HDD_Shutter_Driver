@@ -47,7 +47,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L 6N136-RESCUE-Shutter_Driver U1
+L 6N136 U1
 U 1 1 5893AC8E
 P 2050 1800
 F 0 "U1" H 1850 2100 50  0000 L CNN
