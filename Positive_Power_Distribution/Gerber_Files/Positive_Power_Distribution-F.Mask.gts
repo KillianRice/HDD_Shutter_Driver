@@ -1,7 +1,10 @@
-G04 #@! TF.FileFunction,Soldermask,Top*
+%TF.GenerationSoftware,KiCad,Pcbnew,4.0.7*%
+%TF.CreationDate,2018-02-11T17:01:00-06:00*%
+%TF.ProjectId,Positive_Power_Distribution,506F7369746976655F506F7765725F44,1.0*%
+%TF.FileFunction,Soldermask,Top*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 4.0.7) date 02/11/18 16:54:13*
+G04 Created by KiCad (PCBNEW 4.0.7) date 02/11/18 17:01:00*
 %MOMM*%
 %LPD*%
 G01*
